@@ -17,3 +17,5 @@
 @import "button.css";
 /* 搜索框样式 */
 @import "search.css";
+/* 列表的样式 */
+@import 'list.css';
