@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae2977f6-9857-4cbe-beb2-c6740547b53a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/img/list-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/img/modal-test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/loading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modal.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/caicai-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/caicai-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/icon.css" afterDir="false" />
     </list>
     <list id="b77b2ffb-9553-4906-b687-b4598edae48a" name="Revert &quot;项目初始化、页面布局开发&quot;" comment="Revert &quot;项目初始化、页面布局开发&quot;&#10;&#10;This reverts commit fc54412e" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,19 +28,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/list.html">
+        <entry file="file://$PROJECT_DIR$/demo/loading.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+            <state relative-caret-position="419">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/loading.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/list.css">
+        <entry file="file://$PROJECT_DIR$/src/icon.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="219">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -70,7 +86,6 @@
         <option value="$PROJECT_DIR$/demo/layout-component.html" />
         <option value="$PROJECT_DIR$/src/navbar.css" />
         <option value="$PROJECT_DIR$/demo/input.html" />
-        <option value="$PROJECT_DIR$/src/icon.css" />
         <option value="$PROJECT_DIR$/src/input.css" />
         <option value="$PROJECT_DIR$/demo/button.html" />
         <option value="$PROJECT_DIR$/src/button.css" />
@@ -78,9 +93,18 @@
         <option value="$PROJECT_DIR$/src/common.css" />
         <option value="$PROJECT_DIR$/src/content.css" />
         <option value="$PROJECT_DIR$/demo/search.html" />
-        <option value="$PROJECT_DIR$/src/caicai-ui.css" />
         <option value="$PROJECT_DIR$/demo/list.html" />
         <option value="$PROJECT_DIR$/src/list.css" />
+        <option value="$PROJECT_DIR$/demo/grid.html" />
+        <option value="$PROJECT_DIR$/src/grid.css" />
+        <option value="$PROJECT_DIR$/demo/menu.html" />
+        <option value="$PROJECT_DIR$/src/menu.css" />
+        <option value="$PROJECT_DIR$/src/modal.css" />
+        <option value="$PROJECT_DIR$/demo/modal.html" />
+        <option value="$PROJECT_DIR$/src/caicai-ui.css" />
+        <option value="$PROJECT_DIR$/demo/loading.html" />
+        <option value="$PROJECT_DIR$/src/loading.css" />
+        <option value="$PROJECT_DIR$/src/icon.css" />
       </list>
     </option>
   </component>
@@ -130,12 +154,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Dart" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Code\cai-ui-maser\demo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\cai-ui-maser\demo\img" />
       <recent name="D:\Code\cai-ui-maser\src\img" />
       <recent name="D:\Code\cai-ui-maser" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\cai-ui-maser\demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,7 +197,8 @@
       <workItem from="1564292887580" duration="6867000" />
       <workItem from="1564361182162" duration="20000" />
       <workItem from="1564647357206" duration="107000" />
-      <workItem from="1564793286976" duration="2089000" />
+      <workItem from="1564793286976" duration="2685000" />
+      <workItem from="1564885318463" duration="7797000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化、页面布局开发">
       <created>1562558088132</created>
@@ -192,10 +218,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22938000" />
+    <option name="totallyTimeSpent" value="31331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17173052" />
@@ -210,7 +236,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30028328" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26487252" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -337,13 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/icon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/input.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="614">
@@ -407,24 +426,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/caicai-ui.css">
+    <entry file="file://$PROJECT_DIR$/src/list.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="144">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        <state relative-caret-position="1225">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list.css">
+    <entry file="file://$PROJECT_DIR$/src/grid.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="233">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/modal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caicai-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/loading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loading.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
         </state>
       </provider>
     </entry>
