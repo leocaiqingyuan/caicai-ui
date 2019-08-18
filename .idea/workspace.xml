@@ -20,16 +20,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-395">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="419">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/article.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="419">
@@ -101,9 +101,9 @@
         <option value="$PROJECT_DIR$/demo/toast.html" />
         <option value="$PROJECT_DIR$/src/action-sheet.css" />
         <option value="$PROJECT_DIR$/demo/action-sheet.html" />
-        <option value="$PROJECT_DIR$/demo/article.html" />
         <option value="$PROJECT_DIR$/src/caicai-ui.css" />
         <option value="$PROJECT_DIR$/src/article.css" />
+        <option value="$PROJECT_DIR$/demo/article.html" />
       </list>
     </option>
   </component>
@@ -199,7 +199,7 @@
       <workItem from="1564793286976" duration="2685000" />
       <workItem from="1564885318463" duration="9784000" />
       <workItem from="1564965005453" duration="607000" />
-      <workItem from="1566116687265" duration="2502000" />
+      <workItem from="1566116687265" duration="2799000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化、页面布局开发">
       <created>1562558088132</created>
@@ -219,7 +219,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36427000" />
+    <option name="totallyTimeSpent" value="36724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -539,17 +539,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-395">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/article.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
           <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
         </state>
       </provider>
     </entry>
